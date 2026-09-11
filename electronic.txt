@@ -1,0 +1,28 @@
+P iPhone 1 1399.99 true
+P SamsungGalaxy 1 999.99 true
+P PixelPhone 1 899.99 true
+P NokiaPhone 1 499.99 false
+P MotorolaPhone 1 699.99 true
+
+L AsusLaptop 2 1199.99 15.6
+L AlienwareLaptop 2 1499.99 17.3
+L DellLaptop 2 1099.99 15.0
+L LenovoLaptop 2 999.99 14.0
+L HPLaptop 2 899.99 15.6
+
+C CanonCamera 9 899.99 24
+C SonyCamera 9 1099.99 32
+C NikonCamera 9 799.99 20
+C FujiCamera 9 999.99 26
+C PanasonicCamera 9 849.99 22
+
+X JBLSpeaker 8 199.99
+X BoseSpeaker 8 149.99
+X LogitechKeyboard 5 129.99
+X RazerMouse 6 59.99
+X EpsonPrinter 7 399.99
+
+P iPhone 1 1399.99 true
+L AsusLaptop 2 1199.99 15.6
+C CanonCamera 9 899.99 24
+X JBLSpeaker 8 199.99
